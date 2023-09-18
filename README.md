@@ -24,7 +24,7 @@ Challenge Module 19
 
 ## Cluster Cryptocurrencies with K-means Using the PCA Data
 
- -Cluster the cryptocurrencies for the best value for k on the PCA data.
+ - Cluster the cryptocurrencies for the best value for k on the PCA data.
 
 ## Answer the following question:
 
