@@ -23,7 +23,8 @@ Challenge Module 19
  - Use the elbow method on the PCA data to find the best value for k.
 
 ## Cluster Cryptocurrencies with K-means Using the PCA Data
-Use the following steps to cluster the cryptocurrencies for the best value for k on the PCA data:
+
+ -Cluster the cryptocurrencies for the best value for k on the PCA data.
 
 ## Answer the following question:
 
